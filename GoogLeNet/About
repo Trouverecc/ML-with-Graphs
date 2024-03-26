@@ -1,9 +1,9 @@
 This work include 2 parts. 
 
-One(model_t, model.train) is based on the given dataset, which is same as the former works including AlexNet and LeNet, 
+One (model_t, model.train) is based on the given dataset, which is same as the former works including AlexNet and LeNet, 
 
-while the other(model_testdatadiy, model_traindatadiy) is based on the dataset built by ourselves.
+while the other (model_testdatadiy, model_traindatadiy) is based on the dataset built by ourselves.
 
 I also wrote some scripts including "mean_std.py" and "data_partitioning.py" 
 
-in order to make some work concerning data preprocessing when using the dataset built by ourselves.
+in order to do some work concerning data preprocessing when using the dataset built by ourselves.
